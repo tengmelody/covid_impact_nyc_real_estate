@@ -10,3 +10,4 @@ I wanted to see if the pandemic did indeed make an impact. So I compared the 202
 
 Performing a t-test with SciPy, I ascertained that the two years did indeed differ in their means. I could therefore REJECT the null hypothesis that there was no effect. 
 
+<img src=https://github.com/tengmelody/covid_impact_nyc_real_estate/blob/master/img/Sheet%203.png>
